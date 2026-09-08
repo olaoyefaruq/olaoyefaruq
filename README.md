@@ -16,6 +16,7 @@
 - PSY 106 [Determinant of Behaviour](psy106.vercel.app)
 - PSY 106 [PSY 106 Study Guide](psy106-studyguide.vercel.app)
 - AMS 104 [Principles of Project Management](ams104.vercel.app)
+- AMS 104 [AMS 104 Study Guide](ams104-studyguide.vercel.app)
 - SSC 102 [Man and His Economic Environment](ssc102.vercel.app)
 - GST 112 [Nigerian People and Culture](gst112.vercel.app)
 - GST 111 [Use of English](gst-111-omega.vercel.app) 
